@@ -1,0 +1,76 @@
+{
+  "doktor": [
+    {
+      "id": 1,
+      "name": "Dr Agus",
+      "bidang": "penyakit dalam",
+      "deskripsi": "ahli di penyakit dalam"
+    },
+    {
+      "name": "Dr Sugeng",
+      "bidang": "penyakit dalam hati",
+      "deskripsi": "ahli di penyakit dalam",
+      "id": 2
+    },
+    {
+      "name": "Dr Joko",
+      "bidang": "penyakit luar",
+      "deskripsi": "ahli di penyakit luar",
+      "id": 3
+    },
+    {
+      "name": "Dr Joni",
+      "bidang": "penyakit luar dalam",
+      "deskripsi": "ahli di penyakit luar dalam",
+      "id": 4
+    },
+    {
+      "name": "Dr Asep",
+      "bidang": "penyakit kronis",
+      "deskripsi": "ahli di penyakit luar kronis",
+      "id": 5
+    }
+  ],
+  "pelayanan": [
+    {
+      "id": 1,
+      "layanan": "Rawat Inap"
+    },
+    {
+      "layanan": "Rawat Jalan",
+      "id": 2
+    },
+    {
+      "layanan": "Rawat Darurat",
+      "id": 3
+    },
+    {
+      "layanan": "Rawat Terpadu",
+      "id": 4
+    },
+    {
+      "layanan": "Ibu Anak",
+      "id": 5
+    },
+    {
+      "layanan": "Intensif",
+      "id": 6
+    },
+    {
+      "layanan": "Hemodialisa",
+      "id": 7
+    },
+    {
+      "layanan": "Farmasi",
+      "id": 8
+    },
+    {
+      "layanan": "Gawat Darurat",
+      "id": 9
+    },
+    {
+      "layanan": "ICU",
+      "id": 10
+    }
+  ]
+}
